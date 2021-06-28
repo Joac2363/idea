@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+#player{
+    width: 10vh;
+    height: 10vh;
+    background-color: blueviolet;
+    position: relative;
+    left: calc(50vw - 5vh);
+    top: 100px;
+    
+}
+
+#enemy{
+    width: 10vh;
+    height: 10vh;
+    background-color:black;
+    position: relative;
+    left: 80vw;
+    top: 100px;
+}
