@@ -6,7 +6,7 @@ body {
 #player{
     width: 10vh;
     height: 10vh;
-    background-color: blueviolet;
+    background-color: red;
     position: relative;
     left: calc(50vw - 5vh);
     top: 100px;
